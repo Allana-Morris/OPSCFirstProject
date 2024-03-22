@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">OPSCFirstProject</string>
+    <string name="order_now">Order Now!</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="drinkA">Drink 1</string>
+    <string name="drinkB">Drink 2</string>
+    <string name="drinkC">Drink 3</string>
+    <string name="drinkD">Drink 4</string>
+    <string name="drinkE">Drink 5</string>
+    <string name="drinkF">Drink 6</string>
+</resources>
