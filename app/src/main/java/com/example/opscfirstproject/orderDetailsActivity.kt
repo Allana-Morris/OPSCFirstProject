@@ -31,6 +31,7 @@ class orderDetailsActivity : AppCompatActivity() {
         {
             shareIntent(applicationContext, order.productName)
         }
+
         enableEdgeToEdge()
         setContentView(R.layout.activity_order_details)
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main)) { v, insets ->
